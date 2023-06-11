@@ -6,6 +6,7 @@ Github : <https://github.com/hufahamdika/ProgjarA_Tugas5_2023>
 
 1. **Spesifikasi**
 - Komputer
+
 ![](/Readme%20Images/Aspose.Words.ad9d7a77-b1a0-4b29-b6af-dbc1b92c0197.001.png)
 
 - Environment
